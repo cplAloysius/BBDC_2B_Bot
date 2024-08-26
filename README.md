@@ -4,7 +4,7 @@ This is a bot that checks for available slots for class 2B motorcycle lessons at
 - It refreshes the page at a specified interval and compares the number of lesson slots available to that of the previous refresh
 - If there is a change, a telegram message will be sent to you with a screenshot of the current availabilty of lessons
 
-![Telegram bot screenshot example](https://github.com/cplAloysius/BBDC-2B-Bot/blob/main/table.png?raw=true)
+![Telegram bot screenshot example](https://github.com/cplAloysius/BBDC_2B_Bot/blob/master/table.png)
 
 ### Using the bot
 1. Install [chromedriver](https://chromedriver.chromium.org)
